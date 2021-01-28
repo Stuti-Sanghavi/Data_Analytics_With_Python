@@ -1,4 +1,4 @@
-# About
+# Learnings from the course
 
 1. Using different tools for performing analysis in Python, including the Jupyter Notebook and packages like NumPy, Pandas, Seaborn, scikit-learn etc. 
 
